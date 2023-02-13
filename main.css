@@ -3,6 +3,8 @@
 }
 body{
     margin: 0px;
+    background-image: url(/madara_fon.jpg);
+    background-size: 100%;
 }
 
 header{
